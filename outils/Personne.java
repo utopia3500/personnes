@@ -1,3 +1,4 @@
+package outils;
 
 public class Personne{
     /**Les propriétés (ou attributs) définies danscune classe
