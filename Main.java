@@ -7,6 +7,7 @@ public class Main {
     public static final int AGE = 2;
 
     public static void main(String[]args){
+      System.out.println(3);
         /** lorqu'on déclare une variable de type objet, on dit
          * que l'on fait une INSTANCIATION
          * un objet est une iNSTANCE d'une classe
