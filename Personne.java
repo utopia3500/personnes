@@ -1,3 +1,4 @@
+
 public class Personne{
     /**Les propriétés (ou attributs) définies danscune classe
      * correspondent aux caractéristique de objets qui vont
