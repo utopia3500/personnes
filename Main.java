@@ -1,5 +1,7 @@
 import outils.Personne;
 
+import outils.modules.Fonctions;
+
 public class Main {
 
     public static final int PRENOM = 1;
@@ -7,7 +9,14 @@ public class Main {
     public static final int AGE = 2;
 
     public static void main(String[]args){
+<<<<<<< HEAD
       System.out.println(3);
+=======
+      System.out.println("***************************************");
+      Fonctions.ecrire("ce texte est affiché avec la fonction ecrire statique de Fonctions");
+      System.out.println("***************************************");
+
+>>>>>>> develop
         /** lorqu'on déclare une variable de type objet, on dit
          * que l'on fait une INSTANCIATION
          * un objet est une iNSTANCE d'une classe
@@ -74,5 +83,7 @@ public class Main {
           * Une variable de type objet qui n'a pas été initialisée est considéré
           * comme étant null.
          */
+        System.out.println("*****************************");
+
     }
 }
